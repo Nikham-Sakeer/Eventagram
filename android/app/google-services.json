@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "575477112815",
+    "firebase_url": "https://eventagram-92ff3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "eventagram-92ff3",
+    "storage_bucket": "eventagram-92ff3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575477112815:android:94e50607d7778b128ce01a",
+        "android_client_info": {
+          "package_name": "com.eventagram.apk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575477112815-fpdiavho0k9oe655v2h89isrtf3dfbgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eventagram.apk",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "575477112815-jbifithaamva4l8sl5vmfhh2mv8o80l2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eventagram.apk",
+            "certificate_hash": "b79baa138a231dce7ee55815053b46ad1293ec0b"
+          }
+        },
+        {
+          "client_id": "575477112815-7msgfab69725mrs2vv2fg7ni8onqq5jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDFRvds0r5e3xsOq8R2mMoSUg84uNVhcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575477112815-7msgfab69725mrs2vv2fg7ni8onqq5jo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "575477112815-k0kjgokcdte8p72sipiv0c2hlnjlh7rs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eventagram.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575477112815:android:de7523e345071ac38ce01a",
+        "android_client_info": {
+          "package_name": "com.nikham.eventagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575477112815-gt4vshui353rbkl6athja68ffquj2kd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nikham.eventagram",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "575477112815-7msgfab69725mrs2vv2fg7ni8onqq5jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDFRvds0r5e3xsOq8R2mMoSUg84uNVhcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575477112815-7msgfab69725mrs2vv2fg7ni8onqq5jo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "575477112815-k0kjgokcdte8p72sipiv0c2hlnjlh7rs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eventagram.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
