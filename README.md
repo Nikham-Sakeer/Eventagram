@@ -1,6 +1,6 @@
 # Eventagram
 
-A new Flutter project.
+A new Flutter project. Gives customized events to students based on preferences.
 
 ## Getting Started
 
